@@ -7,8 +7,5 @@ Basing this portfolio off of a basic portfolio I previously created with HTML an
 # JavaScript
 Using jQuery, I added smooth scrolling  when the links are clicked on the navbar. 
 
-# Credits
-I used [w3schools.com "Company" Theme](https://www.w3schools.com/bootstrap/bootstrap_theme_company.asp) (which has no copyright and is free to modify and use) to create my portfolio site, modifying it as I saw fit and desired. 
-
 # Deployed Portfolio
-[Link to deployed portfolio](https://ljbarnes.github.io/_portfolio/)
+[Link to deployed portfolio](https://leahjbarnes.com/)
