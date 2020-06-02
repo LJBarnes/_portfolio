@@ -5,7 +5,11 @@
     padding: 100px 25px;
   }
   
-  .container-fluid {
+  .thumbnail {
+    height: 550px;
+   }
+
+   .container-fluid {
     padding: 60px 50px;
     text-align: center;
    }
