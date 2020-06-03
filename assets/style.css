@@ -72,6 +72,7 @@
   }
 
   #bio-img {
+    margin-top: 12%;
       width: 20%;
       height: auto;
       border-radius: 50%;
@@ -106,6 +107,7 @@
     }
   
     #bio-img {
+      margin-top: 30%;
         width: 40%;
         height: auto;
         border-radius: 50%;
@@ -122,8 +124,75 @@
     }
   
     #bio-img {
+        margin-top: 18%;
         width: 50%;
         height: auto;
         border-radius: 50%;
     }
   }
+
+   
+    @media only screen and (min-width: 1550px) and (max-width: 1785px) {
+    
+      .wrapper {
+        width: auto;
+        height: auto;
+        margin: 15px auto;
+      }
+    
+      #bio-img {
+        margin-top: 35%;
+          width: 50%;
+          height: auto;
+          border-radius: 50%;
+      }
+    }
+
+    @media only screen and (min-width: 1300px) and (max-width: 1550px) {
+    
+      .wrapper {
+        width: auto;
+        height: auto;
+        margin: 15px auto;
+      }
+    
+      #bio-img {
+        margin-top: 35%;
+          width: 50%;
+          height: auto;
+          border-radius: 50%;
+      }
+    }
+
+    @media only screen and (min-width: 1200px) and (max-width: 1300px) {
+    
+      .wrapper {
+        width: auto;
+        height: auto;
+        margin: 15px auto;
+      }
+    
+      #bio-img {
+        margin-top: 50%;
+          width: 50%;
+          height: auto;
+          border-radius: 50%;
+      }
+    }
+
+    @media only screen and (min-width: 961px) and (max-width: 1200px) {
+    
+      .wrapper {
+        width: auto;
+        height: auto;
+        margin: 15px auto;
+      }
+    
+      #bio-img {
+        margin-top: 60%;
+          width: 50%;
+          height: auto;
+          border-radius: 50%;
+      }
+    }
+  
